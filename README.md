@@ -1,5 +1,5 @@
 <h1 align="center">
-✨ Welcome to my C++ Examples repository! ✨ <br>
+✨ Welcome to my C++ examples Repository! ✨ <br>
 </h1>
 
 
