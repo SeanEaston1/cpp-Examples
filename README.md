@@ -6,15 +6,20 @@
 <h2>
 📂 Topics Covered :
 </h2>
-<img align="right" width="15%" src="https://raw.githubusercontent.com/github/explore/180320cffc25f4ed1bbdfd33d4db3a66eeeeb358/topics/cpp/cpp.png">
+<img align="right" width="35%" src="https://raw.githubusercontent.com/github/explore/180320cffc25f4ed1bbdfd33d4db3a66eeeeb358/topics/cpp/cpp.png">
 
 ✅ Hello Wold Program <br>
+✅ Data types <br>
+✅ Bitwise operator <br>
 ✅ Conditional Statements <br>
 ✅ Loops <br>
 ✅ Strings <br>
 ✅ Functions <br>
 ✅ Pointers <br>
 ✅ Arrays <br>
+✅ Matrix <br>
+✅ Patterns <br>
+✅ Strings <br>
 
 
 ____
