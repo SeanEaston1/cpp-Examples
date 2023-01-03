@@ -1,4 +1,5 @@
 #include <iostream>
+using namespace std;
 
 int main() {
   // This for loop will execute 5 times.
@@ -7,7 +8,7 @@ int main() {
   // The increment part of the loop increases the value of 'i' by 1 after each iteration.
   for (int i = 0; i < 5; i++) {
     // This line of code will execute 5 times, once for each iteration of the loop
-    std::cout << "i is: " << i << std::endl;
+    cout << "i is: " << i << endl;
   }
 
   return 0;
