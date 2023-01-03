@@ -1,4 +1,5 @@
 #include <iostream>
+using namespace std;
 
 int main() {
   // Declare a variable called 'count' and set it equal to 0
@@ -9,7 +10,7 @@ int main() {
   // which means the loop will execute 5 times.
   while (count < 5) {
     // This line of code will execute 5 times, once for each iteration of the loop
-    std::cout << "Count is: " << count << std::endl;
+    cout << "Count is: " << count << endl;
 
     // Increment the value of 'count' by 1 at the end of each iteration
     count++;
