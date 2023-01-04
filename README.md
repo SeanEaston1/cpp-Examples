@@ -26,6 +26,6 @@ ____
 
 - This collection contains a variety of C++ programs and code snippets that demonstrate different concepts and techniques in the language.
 
-- The code in this repository is organized by topic and includes examples of functions, classes, data structures, and algorithms. Each example includes detailed comments explaining the code and its purpose.
+- The code in this repository is organized by topic and includes examples of data types, functions, arrays, matrix and much more. 
 
 - I hope these examples will be helpful as a reference or learning resource for those working with C++. Feel free to browse through the code and use it as you see fit. If you have any questions or suggestions, don't hesitate to reach out!
